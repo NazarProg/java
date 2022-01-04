@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="key_logger">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/key_logger.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
